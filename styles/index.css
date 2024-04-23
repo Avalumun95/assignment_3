@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+header{
+    max-width:500%;
+}
+body{
+    font-size:2rem;
+}
+main{
+    max-width:500%;
+}
+nav{
+    background-color:black;
+    padding: 0.5rem 1rem;
+    min-height:5vh;
+    margin:auto;
+}
+nav a{
+    text-decoration:none;
+    color:yellow;
+    padding:2rem;
+}
+nav a:hover{
+    text-decoration:underline;
+}
+section{
+    text-align:center;
+    margin:3rem auto;
+    max-width:500%;
+}
+
+section div{
+    border:2px solid red;
+    background-color:black;
+    color:white;
+    display:inline-block;
+    margin:2rem auto;
+    width:300px;
+    height:300px;
+}
+.div1{
+    font-size:2rem;
+    padding:1rem;
+    margin:2rem auto;
+    text-align:justify;
+}

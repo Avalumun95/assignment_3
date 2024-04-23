@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+nav{
+    background-color:black;
+    padding: 0.5rem 1rem;
+    min-height:5vh;
+    margin:auto;
+}
+nav a{
+    text-decoration:none;
+    color:yellow;
+    padding:2rem;
+}
+nav a:hover{
+    text-decoration:underline;
+}
+section{
+    border:2px solid gold;
+    margin: 1rem auto;
+    max-height:500%;
+    text-align:center;
+    min-height:500%;
+}
+
+ 
